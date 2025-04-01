@@ -2,7 +2,7 @@ I have reverse engineered OpenAI's ChatGPT 4o image generation algorithm!
 
 To use this software, simply run koboldcpp or a compatible API with any instruct LLM, and set KOBOLD_CPP_API_URL to the URL of your koboldcpp API.
 
-Example output:
+**Example output:**
 
 python 4o_imagegen.py
 Enter your image generation prompts below.
