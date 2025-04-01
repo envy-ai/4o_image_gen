@@ -7,6 +7,7 @@ Example output:
 python 4o_imagegen.py
 Enter your image generation prompts below.
 Type 'quit', 'exit', or 'bye' to stop.
+
 --------------------
 Your Prompt: A photograph of the Roman collosseum
 Generating your image...
