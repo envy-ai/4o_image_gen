@@ -1,3 +1,12 @@
+##Update 4/2/2025
+Obviously this is an April Fool's joke, but the program is real and does produce funny refusal messages (YMMV depending on the LLM you use).  In the spirit of OpenAI's image generation using lots of system resources and doing absolutely nothing, I used the Q_6 of L3.3 Damascus to generate the example text.  You can find it here:
+
+https://huggingface.co/mradermacher/L3.3-Damascus-R1-i1-GGUF
+
+If you like getting more than 0.7 tokens per second on a 4090, you should probably use something smaller.
+
+##Original 4/1/2025 readme
+
 I have reverse engineered OpenAI's ChatGPT 4o image generation algorithm!
 
 To use this software, simply run koboldcpp or a compatible API with any instruct LLM, and set KOBOLD_CPP_API_URL to the URL of your koboldcpp API.
